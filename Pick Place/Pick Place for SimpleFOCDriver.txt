@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\Gospar\Documents\Altium\SimpleFOCDriver\Project Outputs for SimpleFOCDriver\Pick Place\Pick Place for SimpleFOCDriver.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/02/21
+Time:       16:12
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer    Footprint       Center-X(mil) Center-Y(mil) Rotation Description                           
+CAP_PWR    VEJ471M1ETR1010 TopLayer VEJ471M1ETR1010 2277.165      1565.000      180      ""                                    
+R_SR3      Res3            TopLayer J1-0603         1811.024      1405.000      180      Resistor                              
+R_SR2      Res3            TopLayer J1-0603         2010.000      855.000       180      Resistor                              
+R_SR1      Res3            TopLayer J1-0603         1811.024      355.000       180      Resistor                              
+C_SR3      "Cap Semi"      TopLayer 1608[0603]      1811.024      1465.000      180      "Capacitor (Semiconductor SIM Model)" 
+C_SR2      "Cap Semi"      TopLayer 1608[0603]      2007.874      910.000       180      "Capacitor (Semiconductor SIM Model)" 
+C_SR1      "Cap Semi"      TopLayer 1608[0603]      1811.024      415.000       180      "Capacitor (Semiconductor SIM Model)" 
+R_IS3      Res3            TopLayer J1-0603         1820.000      1605.000      180      Resistor                              
+R_IS2      Res3            TopLayer J1-0603         2020.000      1050.000      180      Resistor                              
+R_IS1      Res3            TopLayer J1-0603         1811.024      520.000       180      Resistor                              
+C_IS3      "Cap Semi"      TopLayer 1608[0603]      1800.000      1660.000      180      "Capacitor (Semiconductor SIM Model)" 
+C_IS2      "Cap Semi"      TopLayer 1608[0603]      2007.874      1115.000      180      "Capacitor (Semiconductor SIM Model)" 
+C_IS1      "Cap Semi"      TopLayer 1608[0603]      1811.024      585.000       180      "Capacitor (Semiconductor SIM Model)" 
+R6         Res3            TopLayer J1-0603         2265.000      1870.079      0        Resistor                              
+R5         Res3            TopLayer J1-0603         2065.000      1870.079      180      Resistor                              
+R4         Res3            TopLayer J1-0603         1770.000      1870.079      0        Resistor                              
+R3         Res3            TopLayer J1-0603         1950.000      1870.079      180      Resistor                              
+R2         Res3            TopLayer J1-0603         1580.000      1870.079      180      Resistor                              
+R1         Res3            TopLayer J1-0603         1350.000      1870.079      180      Resistor                              
+TB_PWR     TB002-500-02BE  TopLayer TB002-500-02BE  2555.000      808.425       270      ""                                    
+P3         "Header 6"      TopLayer HDR1X6          2210.630      100.000       0        "Header, 6-Pin"                       
+P1         "Header 8"      TopLayer HDR1X8          2110.630      1970.472      0        "Header, 8-Pin"                       
+P4         "Header 8"      TopLayer HDR1X8          1409.842      95.000        0        "Header, 8-Pin"                       
+P2         "Header 10"     TopLayer HDR1X10         1160.630      1970.472      0        "Header, 10-Pin"                      
+TB_MOT     TB002-500-03BE  TopLayer TB002-500-03BE  728.346       1043.307      90       ""                                    
+BTN1       BTN8982         TopLayer BTN8982         1221.22       511.811       180      BTN8982                               
+BTN2       BTN8982         TopLayer BTN8982         1428.07       1043.307      180      BTN8982                               
+BTN3       BTN8982         TopLayer BTN8982         1221.22       1574.803      180      BTN8982                               
