@@ -12,8 +12,13 @@ A powerful arduino shield for running BLDC motors using the FOC algorithm. This 
 - **Max power >500W**: max current 30A, power-supply 24V
 - **Arduino headers**: Arduino UNO, Arduino MEGA, STM32 Nucleo boards, Aruidno DUE...
 - **Small size**: 55mm x 55mm
-- **Open Source**: Fully available fabrication files  
-    - If never done it before, dee a similar guide for *Simple**FOC**Shueld*:  [how to make it yourself](https://docs.simplefoc.com/arduino_simplefoc_shield_fabrication)
+- **Open Source**: 
+   - Fully available fabrication files  
+        - If never done it before, see a similar guide for *Simple**FOC**Shueld*:  [how to make it yourself](https://docs.simplefoc.com/arduino_simplefoc_shield_fabrication)
+   - Altium project
+   - 3d model
+   - schematics
+    
 #### Future features
 - **Stackable**: running 2 motors in the same time
 - **Encoder/Hall sensors interface**: Integrated 3.3kΩ pullups (configurable)
