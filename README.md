@@ -7,7 +7,7 @@ A powerful arduino shield for running BLDC motors using the FOC algorithm. This 
 
 ### Features
 - **Plug & play**: In combination with Arduino *Simple**FOC**library* - [github](https://github.com/simplefoc/Arduino-FOC)
-- **Low-cost**: Price of €20-€25 -  **Will be available soon in the [shop](https://simplefoc.com/shop)!**
+- **Low-cost**: Price of €25-€35 -  **Will be available soon in the [shop](https://simplefoc.com/shop) (est. 06/21)**
 - **High-side current sensing**: - not yet supported by *Simple**FOC**library*
 - **In-line current sensing**: - supported by *Simple**FOC**library*
 - **Max power >500W**: max current 30A, power-supply 24V
@@ -25,6 +25,9 @@ A powerful arduino shield for running BLDC motors using the FOC algorithm. This 
 - **Stackable**: running 2 motors in the same time
 - **I2C interface**: Integrated 4.7kΩ pullups (configurable)
 - **Configurable pinout**: Hardware configuration - soldering connections
+
+> New version of the *Simple**FOC** PowerShield* is in the development at the moment (*v0.3*).
+> The first versions are currently in testing. For more info check the [developmental branch](https://github.com/simplefoc/Arduino-SimpleFOC-PowerShield/tree/dev) 
 
 ### Pinouts
 At this point ***Power**Shield* has fixed pinout.
