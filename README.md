@@ -1,4 +1,4 @@
-# Arduino *Simple**FOC** PowerShield* *v0.3 ( in testing )* 
+# Arduino *Simple**FOC** PowerShield* *v0.3 ( in testing - problems encountered)* 
 A powerful arduino shield for running BLDC motors using the FOC algorithm. This board is based on the [BTN8982](https://www.infineon.com/dgdl/Infineon-BTN8982TA-DS-v01_00-EN.pdf?fileId=db3a30433fa9412f013fbe32289b7c17) half bridges and can support currents up to 30 Amps continuos and 50Amps peak. Making it a board that can run virtually any BLDC motor.
 
 > *Simple**FOC** PowerShield* *v0.3* is still in testing and it is not released yet. It is possible that some changes will be included in the official release. If you are interested in fabricating your-own ***Power**Shield* please check the earlier [releases](https://github.com/simplefoc/Arduino-SimpleFOC-PowerShield/releases)!
