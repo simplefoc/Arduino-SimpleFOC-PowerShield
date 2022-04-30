@@ -5,6 +5,10 @@ A powerful arduino shield for running BLDC motors using the FOC algorithm. This 
 <img src="images/top.png"  height="320px"><img src="images/bottom.png"  height="320px">
 </p>
 
+
+<blockquote class="warning"><p class="heading"> ⚠️ BEWARE: BTN8982/IFX007T performance issues</p><p>BTN8982 and IFX007T drivers have been designed for DC motors and are based on old H-bridge technology. They have very long mosfet rise time (multiple microseconds) which in many cases presents a considerable part of the PWM duty cycle. When runnig the BLDC motors, precise PWM duty cycle setting is crutial for smooth and efficient operation. Therefore these drivers will not be able to provide very smooth operation on high frequency PWM (above 15kHz). Read more about it in the community thread: <a href="https://community.simplefoc.com/t/simplefoc-powershield/582">link</a>.<br> This performance constraint is the main reason why the <span class="simple">Simple<span class="foc">FOC</span> <b>Power</b>Shield</span> project has for now been put on hold, and although these boards are available through Aliexpress and some other platforms, they will not be available through simplefoc.com. <br><br></p><p>This does not mean that the board itself is not functional or that it will not work in your project though. It is still one of the cheepest (simplest) solutions out there for mid to high power BLDC control and with proper tuning of control loops you will still be able to get some good results with it.</p></blockquote>
+
+
 ### Features
 - **Plug & play**: In combination with Arduino *Simple**FOC**library* - [github](https://github.com/simplefoc/Arduino-FOC)
 - **Low-cost**: Fabrication price under €25/pcs - **will not be sold by silplefoc.com**
