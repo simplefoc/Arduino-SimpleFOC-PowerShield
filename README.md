@@ -11,7 +11,7 @@ A powerful arduino shield for running BLDC motors using the FOC algorithm. This 
 
 ### Features
 - **Plug & play**: In combination with Arduino *Simple**FOC**library* - [github](https://github.com/simplefoc/Arduino-FOC)
-- **Low-cost**: Fabrication price under €25/pcs - **will not be sold by silplefoc.com**
+- **Low-cost**: Fabrication price under €25/pcs - **will not be sold by simplefoc.com**
 - **High-side current sensing**: - not yet supported by *Simple**FOC**library*
 - **In-line current sensing**: - supported by *Simple**FOC**library*
 - **Max power <500W**: max current 30A, power-supply 24V
